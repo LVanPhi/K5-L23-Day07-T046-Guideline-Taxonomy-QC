@@ -1,0 +1,6 @@
+{
+  "kind": "editorial",
+  "from_version": "v1.0",
+  "to_version": "v1.1",
+  "summary": "Lam ro quy tac ranh gioi bbox, muc do che khuat, cat bien va ignore_region sau calibration; giu nguyen taxonomy 6 lop."
+}
